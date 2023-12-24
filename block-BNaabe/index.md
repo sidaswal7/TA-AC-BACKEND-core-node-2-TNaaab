@@ -19,7 +19,7 @@ Write code to
 
 Q. Create a server using http
 - handle post method on '/' route
-- send json data on it from postman
+- send json data on it from postmandsfsdf
 
 ```js
 // data format is
